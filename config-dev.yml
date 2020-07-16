@@ -1,2 +1,2 @@
-server:
- port: 1000
+config:
+  info: master pranch,springcloud-config/config-dev.yml version=1"
